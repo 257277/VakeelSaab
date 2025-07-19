@@ -171,16 +171,6 @@ Server will be available at:
 🌐 `http://localhost:8000`  
 🔌 WebSocket: `ws://localhost:8000?token=...`
 
----
-
-## ✅ TODO
-
-- [ ] Replace file-based storage with a database (MongoDB, PostgreSQL)
-- [ ] Add session timeout handling
-- [ ] Improve WebRTC audio call handling
-- [ ] Add typing indicators & delivery receipts
-
----
 
 ## 👨‍💻 Author
 
@@ -286,17 +276,6 @@ npm run dev
 # Open in browser
 http://localhost:3000
 ```
-
----
-
-## ✅ TODO
-
-- [ ] Add UI feedback for call status (ringing, missed, etc.)
-- [ ] Handle reconnection & token expiry
-- [ ] Mute/unmute functionality during audio calls
-- [ ] UI polish for mobile responsiveness
-
----
 
 ## 👨‍💻 Author
 
